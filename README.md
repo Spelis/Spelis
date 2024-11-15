@@ -1,17 +1,11 @@
-I write Python, C, C++ and JavaScript code.
-
-I use Arch btw.
+Hi! I'm Elis Eriksson, online i go by the nickname Spelis. I am a 14 year old self taught Python and C++ programmer.
 
 # Tech Stack:
-[![Programming Languages](https://skillicons.dev/icons?i=javascript,python,c,cpp,cs,bash,godot,unity,lua,md)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
 
-[![Text Editors](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,pycharm)](https://skillicons.dev)
+[![Text Editors](https://skillicons.dev/icons?i=vim,vscode,visualstudio,pycharm)](https://skillicons.dev)
 
-[![Libraries](https://skillicons.dev/icons?i=flask,qt,selenium)](https://skillicons.dev)
-
-[![Operating Systems](https://skillicons.dev/icons?i=arch,raspberrypi,debian,ubuntu,nix,windows,apple)](https://skillicons.dev)
-
-*I have used all of these at least twice 😉. I daily drive Arch & Windows 11
+[![Operating Systems](https://skillicons.dev/icons?i=arch,raspberrypi,windows,apple)](https://skillicons.dev)
 
 # Socials:
 [Discord](https://discord.gg/w97xccJGEY) [YouTube](https://youtube.com/@Spelis)
