@@ -1,45 +1,22 @@
-<h2 align="left">Hi 👋! My name is Elis and I'm a Software developer, from Northern Sweden</h2>
+<img align="left" src="https://avatars.githubusercontent.com/u/152774420?v=4" width=110 />
 
-###
+Hello there! I'm **Spelis**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spelis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spelis&locale=en&hide_title=false&layout=pie&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spelis&theme=github-compact&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelis&theme=dark&hide_border=false" />
-</div>
+I am a **14** year old **software developer** from **Sweden**.
 
-###
+I am currently using <img src="https://gitlab.com/uploads/-/system/project/avatar/30707255/endeavouros-icon.png" width=20 /> with <img src="https://media.tenor.com/XSH2M_OiW9MAAAAj/hyprland-logo.gif" width=20 /> [(*dotfiles*)](https://github.com/spelis/dotfiles)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="discord logo"  />
-  <br><br>
+Tech stack:
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
-
-###
-
-<br clear="both">
-
+Commits:
 <img src="https://raw.githubusercontent.com/Spelis/Spelis/output/snake.svg" alt="Snake animation" />
 
-###
+
+> [!NOTE]
+> [Check out LunaBot!<br>![Check out LunaBot!](https://github-readme-stats.vercel.app/api/pin?username=spelis&repo=lunabot&theme=dark)](https://github.com/spelis/lunabot)
