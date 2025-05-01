@@ -11,10 +11,6 @@
 
 ###
 
-<img align="right" height="150" src="https://yt3.googleusercontent.com/FiJo_JV67CNF943gX4QEi6pgV8huqmxEzgp4RTMyJ4z8lpw8NwV348_CmkBIdosq1K0APYGd0mY=s160-c-k-c0x00ffffff-no-rj"  />
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="discord logo"  />
