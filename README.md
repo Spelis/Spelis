@@ -2,7 +2,7 @@
 
 Hello there! I'm **Spelis**.
 
-I am a **14** year old **software developer** from **Sweden**.
+I am a **15** year old **software developer** from **Sweden**.
 
 I am currently using <img src="https://gitlab.com/uploads/-/system/project/avatar/30707255/endeavouros-icon.png" width=20 /> with <img src="https://media.tenor.com/XSH2M_OiW9MAAAAj/hyprland-logo.gif" width=20 /> [(*dotfiles*)](https://github.com/spelis/dotfiles)
 
