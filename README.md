@@ -4,7 +4,7 @@ Hello there! I'm **Spelis**.
 
 I am a **15** year old **software developer** from **Sweden**.
 
-I am currently using **EndeavourOS** with **i3** (and **Plasma** on Laptop) [(*dotfiles*)](https://github.com/spelis/dotfiles)
+I am currently using **EndeavourOS** with **i3** [(*dotfiles*)](https://github.com/spelis/dotfiles)
 
 Tech stack:
 <div>
