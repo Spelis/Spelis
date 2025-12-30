@@ -1,3 +1,5 @@
+# Most of my active repos have been moved to [my own website](https://git.spelis.projnull.eu)
+
 <img align="left" src="https://avatars.githubusercontent.com/u/152774420?v=4" width=110 />
 
 Hello there! I'm **Spelis**.
