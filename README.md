@@ -1,6 +1,6 @@
 Hello there! I'm **Spelis**.
 
-I am a **15** year old **software developer** from **Sweden**.
+I am a **16** year old **software developer** from **Sweden**.
 
 I am currently using **EndeavourOS** with **i3**
 
